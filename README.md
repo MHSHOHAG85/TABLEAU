@@ -1,2 +1,2 @@
 # TABLEAU
-Here, I will upload my VISUALIZATION Projects.
+Here, I will upload my Visualization Projects.
